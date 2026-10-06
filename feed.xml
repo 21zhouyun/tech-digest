@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Tech opinions digest — 2026-10-06</title>
-<link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-<description>Daily curated tech opinions and blog posts</description>
-<language>en-us</language>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
-<item>
-<title>Karpathy: cheap creation inverts software economics — discardable software</title>
-<link>https://fourweekmba.com/ai-karpathy-discardable-software-artifacts/</link>
-<description>Andrej Karpathy argues that as intelligence and code get cheap, asking for large custom discardable software beats the old reuse-first habit — "reuse was never a virtue, it was a response to the price of building."</description>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Terry Tao: The Future of Mathematics</title>
-<link>https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/</link>
-<description>Tao's latest essay on where mathematics is headed — 44 comments of mathematicians and ML people arguing about what AI does to the field.</description>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
-<link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link>
-<description>Vals.ai claims AI agents found two room-temperature magnetic semiconductor candidates — 140 HN comments debating whether the rigor holds up.</description>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</title>
-<link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</link>
-<description>Generative slop meets attribution: AI fakes wearing real cartoonists' signatures, and the copyright + authenticity debate it reignites.</description>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-</channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Tech Opinions Digest</title>
+<link>https://21zhouyun.github.io/tech-digest/</link>
+<description>Daily digest of interesting tech opinions and blog posts — curated picks not already in your reader.</description>
+<language>en</language>
+<item><title>Karpathy: "discardable software" — cheap creation inverts software economics</title><link>https://fourweekmba.com/ai-karpathy-discardable-software-artifacts/</link><description>Karpathy's Oct 2 post: bespoke disposable artifacts beat reuse-first habits; plus a practical ladder for reading LLM output (ASD-STE100 → diagrams → HTML → custom explainer videos).</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://fourweekmba.com/ai-karpathy-discardable-software-artifacts/</guid></item>
+<item><title>Terry Tao: The Future of Mathematics</title><link>https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/</link><description>Tao's new essay on where mathematics goes from here; mathematicians vs ML people arguing about AI's role.</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/</guid></item>
+<item><title>Opus 5.5 agents discover two room-temp magnetic semiconductor candidates</title><link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link><description>vals.ai's claim that agents found two room-temperature magnetic semiconductor candidates — rigor debated.</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</guid></item>
+</channel></rss>
