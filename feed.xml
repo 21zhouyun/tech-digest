@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Tech Opinions Digest</title>
-<link>https://21zhouyun.github.io/tech-digest/</link>
-<description>Daily digest of interesting tech opinions and blog posts — curated picks not already in your reader.</description>
-<language>en</language>
-<item><title>Karpathy: "discardable software" — cheap creation inverts software economics</title><link>https://fourweekmba.com/ai-karpathy-discardable-software-artifacts/</link><description>Karpathy's Oct 2 post: bespoke disposable artifacts beat reuse-first habits; plus a practical ladder for reading LLM output (ASD-STE100 → diagrams → HTML → custom explainer videos).</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://fourweekmba.com/ai-karpathy-discardable-software-artifacts/</guid></item>
-<item><title>Terry Tao: The Future of Mathematics</title><link>https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/</link><description>Tao's new essay on where mathematics goes from here; mathematicians vs ML people arguing about AI's role.</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/</guid></item>
-<item><title>Opus 5.5 agents discover two room-temp magnetic semiconductor candidates</title><link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link><description>vals.ai's claim that agents found two room-temperature magnetic semiconductor candidates — rigor debated.</description><pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</guid></item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>daily tech opinions digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Curated tech opinions and blog posts from researchers and thinkers.</description>
+    <pubDate>Wed, 07 Oct 2026 08:30:00 +0800</pubDate>
+    <item>
+      <title>A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents</title>
+      <link>https://blog.cryptographyengineering.com/</link>
+      <description>Matthew Green referees the infosec-vs-alignment debate on agent sandboxing, then adds his own third worry: a swarm of agents that never leave their sandboxes, each doing exactly what it was told by a human who wasn't supposed to be giving orders.</description>
+      <pubDate>Wed, 07 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
