@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>daily tech opinions digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Curated tech opinions and blog posts from researchers and thinkers.</description>
-    <pubDate>Wed, 07 Oct 2026 08:30:00 +0800</pubDate>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
+    <description>Daily digest of tech opinions and blog posts from researchers and thinkers (RSS supplement)</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents</title>
-      <link>https://blog.cryptographyengineering.com/</link>
-      <description>Matthew Green referees the infosec-vs-alignment debate on agent sandboxing, then adds his own third worry: a swarm of agents that never leave their sandboxes, each doing exactly what it was told by a human who wasn't supposed to be giving orders.</description>
-      <pubDate>Wed, 07 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Matthew Green: "I think we might lose public key cryptography"</title>
+      <link>https://twitter.com/matthew_d_green/status/2108278850555674975</link>
+      <description>Cryptographer Matthew Green argues AI advances in cryptanalysis could undermine standardized public-key cryptography long before quantum computers do — sparked by Anthropic Mythos' recent HAWK and reduced-round AES results.</description>
+      <pubDate>Fri, 09 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
