@@ -5,12 +5,18 @@
     <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
     <description>Daily digest of tech opinions and blog posts from researchers and thinkers (RSS supplement)</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Matthew Green: "I think we might lose public key cryptography"</title>
-      <link>https://twitter.com/matthew_d_green/status/2108278850555674975</link>
-      <description>Cryptographer Matthew Green argues AI advances in cryptanalysis could undermine standardized public-key cryptography long before quantum computers do — sparked by Anthropic Mythos' recent HAWK and reduced-round AES results.</description>
-      <pubDate>Fri, 09 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Terence Tao: Hexagon — a new repository for LLM-assisted mathematics</title>
+      <link>https://terrytao.wordpress.com/2026/10/06/hexagon/</link>
+      <description>Tao announces a new citable repository for research proved with LLM assistance, with lower authorship barriers than arXiv — he argues LLM-discovered results are too "brittle" to live on blogs or GitHub posts.</description>
+      <pubDate>Sat, 10 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Andrew Ng: Scaling Up for Future AI Demands — More Agents Demand More Compute</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/letters</link>
+      <description>Ng's latest letter argues most people still underestimate the data-center buildout required, as multiplying agents push compute demand far past current capacity plans.</description>
+      <pubDate>Sat, 10 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
