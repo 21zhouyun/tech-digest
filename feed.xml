@@ -5,18 +5,12 @@
     <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
     <description>Daily digest of tech opinions and blog posts from researchers and thinkers (RSS supplement)</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Terence Tao: Hexagon — a new repository for LLM-assisted mathematics</title>
-      <link>https://terrytao.wordpress.com/2026/10/06/hexagon/</link>
-      <description>Tao announces a new citable repository for research proved with LLM assistance, with lower authorship barriers than arXiv — he argues LLM-discovered results are too "brittle" to live on blogs or GitHub posts.</description>
-      <pubDate>Sat, 10 Oct 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Andrew Ng: Scaling Up for Future AI Demands — More Agents Demand More Compute</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/letters</link>
-      <description>Ng's latest letter argues most people still underestimate the data-center buildout required, as multiplying agents push compute demand far past current capacity plans.</description>
-      <pubDate>Sat, 10 Oct 2026 08:30:00 +0800</pubDate>
+      <title>'Mathematicians did not ask for this': math group calls on researchers to reject OpenAI</title>
+      <link>https://indianexpress.com/article/technology/artificial-intelligence/mathematicians-did-not-ask-for-this-openai-10912458/</link>
+      <description>After OpenAI dropped 722 AI-generated math preprints on GitHub — then withdrew three within a day over a sign error — the Association for Human Mathematics called it "a demonstration of power, not scholarship" and urged mathematicians to stop collaborating with OpenAI.</description>
+      <pubDate>Sun, 11 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
