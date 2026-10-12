@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Daily Tech Opinions Digest</title>
+    <title>Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-    <description>Daily digest of tech opinions and blog posts from researchers and thinkers (RSS supplement)</description>
+    <description>Daily tech opinions and blog posts, curated. Supplement to the reader's own subscriptions.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 00:30:00 +0000</pubDate>
     <item>
-      <title>'Mathematicians did not ask for this': math group calls on researchers to reject OpenAI</title>
-      <link>https://indianexpress.com/article/technology/artificial-intelligence/mathematicians-did-not-ask-for-this-openai-10912458/</link>
-      <description>After OpenAI dropped 722 AI-generated math preprints on GitHub — then withdrew three within a day over a sign error — the Association for Human Mathematics called it "a demonstration of power, not scholarship" and urged mathematicians to stop collaborating with OpenAI.</description>
-      <pubDate>Sun, 11 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Etzioni on AI: Where I agree with AI 'doomer' Max Tegmark, and where I think he's wrong</title>
+      <link>https://www.geekwire.com/2026/etzioni-on-ai-where-i-agree-with-ai-doomer-max-tegmark-and-where-i-think-hes-wrong/</link>
+      <description>Former Allen Institute CEO Oren Etzioni debates Max Tegmark on whether AI is already out of control, rogue agents, regulation vs technical fixes, and China's approach — substantive and nuanced, not doom-hype.</description>
+      <pubDate>Mon, 12 Oct 2026 00:30:00 +0000</pubDate>
+      <guid>https://www.geekwire.com/2026/etzioni-on-ai-where-i-agree-with-ai-doomer-max-tegmark-and-where-i-think-hes-wrong/</guid>
     </item>
   </channel>
 </rss>
