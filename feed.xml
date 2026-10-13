@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Tech Opinions Digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-    <description>Daily tech opinions and blog posts, curated. Supplement to the reader's own subscriptions.</description>
-    <language>en</language>
-    <pubDate>Mon, 12 Oct 2026 00:30:00 +0000</pubDate>
-    <item>
-      <title>Etzioni on AI: Where I agree with AI 'doomer' Max Tegmark, and where I think he's wrong</title>
-      <link>https://www.geekwire.com/2026/etzioni-on-ai-where-i-agree-with-ai-doomer-max-tegmark-and-where-i-think-hes-wrong/</link>
-      <description>Former Allen Institute CEO Oren Etzioni debates Max Tegmark on whether AI is already out of control, rogue agents, regulation vs technical fixes, and China's approach — substantive and nuanced, not doom-hype.</description>
-      <pubDate>Mon, 12 Oct 2026 00:30:00 +0000</pubDate>
-      <guid>https://www.geekwire.com/2026/etzioni-on-ai-where-i-agree-with-ai-doomer-max-tegmark-and-where-i-think-hes-wrong/</guid>
-    </item>
-  </channel>
+<channel>
+<title>Tech Opinions Digest</title>
+<link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
+<description>Daily picks of tech opinions and blog posts for 周运.</description>
+<language>en</language>
+<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+<item>
+<title>Satya Nadella: Models as Insider Risks in the Super Intelligence Era</title>
+<link>https://x.com/satyanadella/status/2108931348857827686</link>
+<description>Nadella argues enterprises should treat frontier models as insider risks: separate "the supply of intelligence from the authority over it" — identity, least privilege, tamper-proof logs, and a human-held emergency brake — conceding that models can't be trusted, only contained.</description>
+<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Andrej Karpathy: the AI capability funnel is sharpening</title>
+<link>https://x.com/karpathy/status/2109361546505966046</link>
+<description>Karpathy follows up his April post: ~6B people have barely touched an LLM, 1–2B are casual users, ~20M use frontier models professionally in math/code, and only ~5,000 see frontier systems from the inside — everyone is debating a different machine.</description>
+<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Brookings: Shaping global governance of AI agents</title>
+<link>https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/</link>
+<description>Agents shift governance from "what did the model say" to "what did the system do, why was it allowed, and who is accountable" — and with the EU's high-risk rules delayed to 2027–28, organizational controls, not law, govern agents in high-stakes domains for now.</description>
+<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Dylan Patel (SemiAnalysis) on Big Technology: Can AI Keep Growing Exponentially?</title>
+<link>https://www.bigtechnology.com/p/can-ai-keep-growing-exponentially</link>
+<description>Patel argues the circulating AI-buildout numbers are still too small, compute demand keeps outrunning supply, and value shifts from labor to capital — including why AI labs might keep their best models to themselves.</description>
+<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+</item>
+</channel>
 </rss>
