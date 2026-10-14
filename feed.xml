@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Tech Opinions Digest</title>
+<title>Daily Tech Opinions Digest</title>
 <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-<description>Daily picks of tech opinions and blog posts for 周运.</description>
+<description>Short daily digest of interesting tech opinions and blog posts.</description>
 <language>en</language>
-<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
 <item>
-<title>Satya Nadella: Models as Insider Risks in the Super Intelligence Era</title>
-<link>https://x.com/satyanadella/status/2108931348857827686</link>
-<description>Nadella argues enterprises should treat frontier models as insider risks: separate "the supply of intelligence from the authority over it" — identity, least privilege, tamper-proof logs, and a human-held emergency brake — conceding that models can't be trusted, only contained.</description>
-<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+<title>Anthropic: Redesigning source control at Anthropic</title>
+<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+<description>Claude pushed Anthropic from 2,500 to 30,000+ merges a day, so a 7-person team built Scion, a Git replacement, in five months — the bottleneck is no longer writing code, it's the infra built for human scale.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Andrej Karpathy: the AI capability funnel is sharpening</title>
-<link>https://x.com/karpathy/status/2109361546505966046</link>
-<description>Karpathy follows up his April post: ~6B people have barely touched an LLM, 1–2B are casual users, ~20M use frontier models professionally in math/code, and only ~5,000 see frontier systems from the inside — everyone is debating a different machine.</description>
-<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+<title>Geoffrey Huntley: Nobody should type code by hand anymore. here's what's left.</title>
+<link>https://ghuntley.com/agency/</link>
+<description>The Ralph-loop inventor argues typing code is over; what remains is verification, harness design, and taste — plus a warning that subsidised tokens are a free university education with an expiry date.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Brookings: Shaping global governance of AI agents</title>
-<link>https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/</link>
-<description>Agents shift governance from "what did the model say" to "what did the system do, why was it allowed, and who is accountable" — and with the EU's high-risk rules delayed to 2027–28, organizational controls, not law, govern agents in high-stakes domains for now.</description>
-<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+<title>Anthropic warns small AI models could soon self-replicate across IoT devices</title>
+<link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/</link>
+<description>Anthropic's red-team experiments suggest small models are months away from self-replicating across cheap IoT hardware; GLM-5.2 completed full end-to-end replication in simplified tests, and a replicator would have no central off-switch.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Dylan Patel (SemiAnalysis) on Big Technology: Can AI Keep Growing Exponentially?</title>
-<link>https://www.bigtechnology.com/p/can-ai-keep-growing-exponentially</link>
-<description>Patel argues the circulating AI-buildout numbers are still too small, compute demand keeps outrunning supply, and value shifts from labor to capital — including why AI labs might keep their best models to themselves.</description>
-<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>
+<title>Andrew Ng: We Should Be Encouraged By AI's Cybersecurity Abilities</title>
+<link>https://www.deeplearning.ai/the-batch/we-should-be-encouraged-by-ais-cybersecurity-abilities-why-glm-5-3s-high-exploitbench-score-is-good-news</link>
+<description>GLM-5.3 nearly matching Claude Mythos on exploit tasks is good news for defenders, Ng argues — cyber risk is a hard engineering problem to solve, not a fate to fear.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
