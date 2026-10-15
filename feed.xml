@@ -3,31 +3,14 @@
 <channel>
 <title>Daily Tech Opinions Digest</title>
 <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-<description>Short daily digest of interesting tech opinions and blog posts.</description>
+<description>Curated tech opinion picks, supplement to the daily chat digest. Excludes sources already subscribed in NetNewsWire (Daring Fireball, Hacker News, Simon Willison's Weblog, Sinocism, Stratechery).</description>
 <language>en</language>
+<lastBuildDate>Thu, 15 Oct 2026 08:30:00 +0800</lastBuildDate>
 <item>
-<title>Anthropic: Redesigning source control at Anthropic</title>
-<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-<description>Claude pushed Anthropic from 2,500 to 30,000+ merges a day, so a 7-person team built Scion, a Git replacement, in five months — the bottleneck is no longer writing code, it's the infra built for human scale.</description>
-<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Geoffrey Huntley: Nobody should type code by hand anymore. here's what's left.</title>
-<link>https://ghuntley.com/agency/</link>
-<description>The Ralph-loop inventor argues typing code is over; what remains is verification, harness design, and taste — plus a warning that subsidised tokens are a free university education with an expiry date.</description>
-<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Anthropic warns small AI models could soon self-replicate across IoT devices</title>
-<link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/</link>
-<description>Anthropic's red-team experiments suggest small models are months away from self-replicating across cheap IoT hardware; GLM-5.2 completed full end-to-end replication in simplified tests, and a replicator would have no central off-switch.</description>
-<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Andrew Ng: We Should Be Encouraged By AI's Cybersecurity Abilities</title>
-<link>https://www.deeplearning.ai/the-batch/we-should-be-encouraged-by-ais-cybersecurity-abilities-why-glm-5-3s-high-exploitbench-score-is-good-news</link>
-<description>GLM-5.3 nearly matching Claude Mythos on exploit tasks is good news for defenders, Ng argues — cyber risk is a hard engineering problem to solve, not a fate to fear.</description>
-<pubDate>Wed, 14 Oct 2026 08:30:00 +0800</pubDate>
+<title>Bruce Schneier: The Future of AI Cryptanalysis</title>
+<link>https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html</link>
+<description>Schneier pushes back on Matthew Green's bleak series about AI outperforming humans in cryptanalysis — he's more optimistic, betting on cryptographers' habit of over-engineering their ciphers.</description>
+<pubDate>Thu, 15 Oct 2026 08:30:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
