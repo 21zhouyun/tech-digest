@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
+<rss version="2.0"><channel>
 <title>Daily Tech Opinions Digest</title>
-<link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-<description>Curated tech opinion picks, supplement to the daily chat digest. Excludes sources already subscribed in NetNewsWire (Daring Fireball, Hacker News, Simon Willison's Weblog, Sinocism, Stratechery).</description>
-<language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:30:00 +0800</lastBuildDate>
-<item>
-<title>Bruce Schneier: The Future of AI Cryptanalysis</title>
-<link>https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html</link>
-<description>Schneier pushes back on Matthew Green's bleak series about AI outperforming humans in cryptanalysis — he's more optimistic, betting on cryptographers' habit of over-engineering their ciphers.</description>
-<pubDate>Thu, 15 Oct 2026 08:30:00 +0800</pubDate>
-</item>
-</channel>
-</rss>
+<link>https://21zhouyun.github.io/tech-digest/</link>
+<description>Daily tech opinions digest</description>
+<lastBuildDate>Fri, 16 Oct 2026 08:30:00 +0800</lastBuildDate>
+<item><title>Andrew Ng: No meaningful existential risk from AI — safety lobbying is stifling competition</title><link>https://nypost.com/2026/10/13/business/ai-pioneer-blasts-extinction-fears-accuses-tech-firms-of-using-made-up-safety-arguments-to-stifle-competition/</link><description>Ng argues extinction talk distracts regulators from real harms and helps closed-model incumbents block open weights.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://nypost.com/2026/10/13/business/ai-pioneer-blasts-extinction-fears-accuses-tech-firms-of-using-made-up-safety-arguments-to-stifle-competition/</guid></item>
+<item><title>Scott Aaronson: Podcasts about the Topic</title><link>https://scottaaronson.blog/</link><description>Aaronson reacts live to an Anthropic model beating long-standing 3SUM and all-pairs shortest path records, on top of the Mathocalypse wave.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://scottaaronson.blog/</guid></item>
+<item><title>Scientific American: Can AI break encryption? Cryptographers are divided</title><link>https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/</link><description>Green worries about a family-wide shortcut, others note no deployed algorithm has been broken and none of the 722 papers touches cryptography.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/</guid></item>
+</channel></rss>
