@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Daily Tech Opinions Digest</title>
-<link>https://21zhouyun.github.io/tech-digest/</link>
-<description>Daily tech opinions digest</description>
-<lastBuildDate>Fri, 16 Oct 2026 08:30:00 +0800</lastBuildDate>
-<item><title>Andrew Ng: No meaningful existential risk from AI — safety lobbying is stifling competition</title><link>https://nypost.com/2026/10/13/business/ai-pioneer-blasts-extinction-fears-accuses-tech-firms-of-using-made-up-safety-arguments-to-stifle-competition/</link><description>Ng argues extinction talk distracts regulators from real harms and helps closed-model incumbents block open weights.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://nypost.com/2026/10/13/business/ai-pioneer-blasts-extinction-fears-accuses-tech-firms-of-using-made-up-safety-arguments-to-stifle-competition/</guid></item>
-<item><title>Scott Aaronson: Podcasts about the Topic</title><link>https://scottaaronson.blog/</link><description>Aaronson reacts live to an Anthropic model beating long-standing 3SUM and all-pairs shortest path records, on top of the Mathocalypse wave.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://scottaaronson.blog/</guid></item>
-<item><title>Scientific American: Can AI break encryption? Cryptographers are divided</title><link>https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/</link><description>Green worries about a family-wide shortcut, others note no deployed algorithm has been broken and none of the 722 papers touches cryptography.</description><pubDate>Fri, 16 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/</guid></item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Curated tech opinions and blog posts</description>
+    <lastBuildDate>Sat, 17 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Nick Cammarata: Neural Networks Are Already Clean</title>
+      <link>https://already-clean.goodfire.com/essay.md</link>
+      <description>A co-author of the classic polysemanticity work now argues that evidence was misread — most neurons have one legible job, which would make interpretability and alignment far more tractable.</description>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://already-clean.goodfire.com/essay.md</guid>
+    </item>
+    <item>
+      <title>Andrew Ng: Formal Verification Meets Unverifiable Judgement</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/letters</link>
+      <description>Don&#x27;t overgeneralize from progress in math and code — those are verifiable; the hardest AI problems still hinge on unverifiable judgement.</description>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.deeplearning.ai/the-batch/tag/letters</guid>
+    </item>
+    <item>
+      <title>Anthropic&#x27;s Claude Code team: How the Claude Code team does code review</title>
+      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+      <description>Review stops being an end-of-road gate and runs continuously, machine-first — &#x27;did a human read the code?&#x27; is the wrong proxy for risk.</description>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
+    </item>
+    <item>
+      <title>Bruce Schneier: Backdooring Open-Weight AI Models</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</link>
+      <description>Edited open weights can hide a trigger-activated backdoor that passes evals and later exfiltrates credentials — a cheap, hard-to-detect supply-chain risk.</description>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</guid>
+    </item>
+    <item>
+      <title>Alex Wang: You could have invented transformers from memory</title>
+      <link>https://alexwang.ai/posts/associative-memory/</link>
+      <description>Reframes linear layers, MLPs and self-attention as associative memory stores — and shows why attention&#x27;s memory capacity scales so much better.</description>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://alexwang.ai/posts/associative-memory/</guid>
+    </item>
+  </channel>
+</rss>
