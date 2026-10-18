@@ -1,44 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Daily Tech Opinions Digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Curated tech opinions and blog posts</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:30:00 +0800</lastBuildDate>
-    <item>
-      <title>Nick Cammarata: Neural Networks Are Already Clean</title>
-      <link>https://already-clean.goodfire.com/essay.md</link>
-      <description>A co-author of the classic polysemanticity work now argues that evidence was misread — most neurons have one legible job, which would make interpretability and alignment far more tractable.</description>
-      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://already-clean.goodfire.com/essay.md</guid>
-    </item>
-    <item>
-      <title>Andrew Ng: Formal Verification Meets Unverifiable Judgement</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/letters</link>
-      <description>Don&#x27;t overgeneralize from progress in math and code — those are verifiable; the hardest AI problems still hinge on unverifiable judgement.</description>
-      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.deeplearning.ai/the-batch/tag/letters</guid>
-    </item>
-    <item>
-      <title>Anthropic&#x27;s Claude Code team: How the Claude Code team does code review</title>
-      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
-      <description>Review stops being an end-of-road gate and runs continuously, machine-first — &#x27;did a human read the code?&#x27; is the wrong proxy for risk.</description>
-      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
-    </item>
-    <item>
-      <title>Bruce Schneier: Backdooring Open-Weight AI Models</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</link>
-      <description>Edited open weights can hide a trigger-activated backdoor that passes evals and later exfiltrates credentials — a cheap, hard-to-detect supply-chain risk.</description>
-      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</guid>
-    </item>
-    <item>
-      <title>Alex Wang: You could have invented transformers from memory</title>
-      <link>https://alexwang.ai/posts/associative-memory/</link>
-      <description>Reframes linear layers, MLPs and self-attention as associative memory stores — and shows why attention&#x27;s memory capacity scales so much better.</description>
-      <pubDate>Sat, 17 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://alexwang.ai/posts/associative-memory/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Daily Tech Opinions Digest</title>
+<link>https://21zhouyun.github.io/tech-digest/</link>
+<description>Daily tech opinions digest</description>
+<lastBuildDate>Sun, 18 Oct 2026 08:30:00 +0800</lastBuildDate>
+<item><title>Timothy Gowers: How worried should we be about extinction risk from AI?</title><link>https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/</link><description>A Fields medalist works through x-risk layer by layer — wants, misgeneralization, resource competition — after joining MAISI's advisory panel, and finds his old layer-1 dismissals don't survive contact with the rejoinders.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/</guid></item>
+<item><title>Terry Tao: SAIR Open Math OS released</title><link>https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/</link><description>An open, donated-compute alternative to frontier math models — hosting DeepSeek V4.1 Flash, Kimi K3 and GLM 5.3 Flash, with team accounts where collaborators see each other's prompts, free for academics.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/</guid></item>
+<item><title>Geoffrey Huntley: State of agentic coding #11 — labs that can't fail</title><link>https://ghuntley.com/toronto/</link><description>Huntley argues lab financials are cooked — ROI must clear a higher bond rate with an adoption curve steeper than humans can deliver — while co-host Armin Ronacher dissents in the same post.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://ghuntley.com/toronto/</guid></item>
+<item><title>Matthew Green: Measuring Human Cryptanalysis Effort</title><link>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</link><description>Green used Claude Fable 5.1, Opus 5.5 and GPT-6 Astra to classify ~16,000 papers into cryptanalyst-hours per public-key assumption — lattices have only recently overtaken elliptic curves.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</guid></item>
+</channel></rss>
