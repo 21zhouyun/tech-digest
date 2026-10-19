@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Daily Tech Opinions Digest</title>
-<link>https://21zhouyun.github.io/tech-digest/</link>
-<description>Daily tech opinions digest</description>
-<lastBuildDate>Sun, 18 Oct 2026 08:30:00 +0800</lastBuildDate>
-<item><title>Timothy Gowers: How worried should we be about extinction risk from AI?</title><link>https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/</link><description>A Fields medalist works through x-risk layer by layer — wants, misgeneralization, resource competition — after joining MAISI's advisory panel, and finds his old layer-1 dismissals don't survive contact with the rejoinders.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/</guid></item>
-<item><title>Terry Tao: SAIR Open Math OS released</title><link>https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/</link><description>An open, donated-compute alternative to frontier math models — hosting DeepSeek V4.1 Flash, Kimi K3 and GLM 5.3 Flash, with team accounts where collaborators see each other's prompts, free for academics.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/</guid></item>
-<item><title>Geoffrey Huntley: State of agentic coding #11 — labs that can't fail</title><link>https://ghuntley.com/toronto/</link><description>Huntley argues lab financials are cooked — ROI must clear a higher bond rate with an adoption curve steeper than humans can deliver — while co-host Armin Ronacher dissents in the same post.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://ghuntley.com/toronto/</guid></item>
-<item><title>Matthew Green: Measuring Human Cryptanalysis Effort</title><link>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</link><description>Green used Claude Fable 5.1, Opus 5.5 and GPT-6 Astra to classify ~16,000 papers into cryptanalyst-hours per public-key assumption — lattices have only recently overtaken elliptic curves.</description><pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</guid></item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Curated tech opinions and blog posts</description>
+    <lastBuildDate>Mon, 19 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Zvi Mowshowitz: Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling</title>
+      <link>https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory</link>
+      <description>Anthropic is shopping a federal bill that preempts stronger state laws like SB 53 while weakening enforcement and auditor licensing — weaker, Zvi argues, than Anthropic's own June framework.</description>
+      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory</guid>
+    </item>
+    <item>
+      <title>Nathan Lambert: Meta shakes up the frontiers, open and closed</title>
+      <link>https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open</link>
+      <description>Muse Spark Open halves the US-China open-weight gap and makes Meta the only American lab with frontier open and closed models — but its custom license is an unnecessary strategic risk.</description>
+      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open</guid>
+    </item>
+    <item>
+      <title>Francesco Maggi (via Terry Tao): Will it be a golden age or a dark age for mathematics (and science)?</title>
+      <link>https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</link>
+      <description>Golden age if LLMs empower a new generation and stay open; dark age if output soars while human understanding withers and concentrates in a few hands — society will need a lot more mathematicians, not fewer.</description>
+      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</guid>
+    </item>
+  </channel>
+</rss>
