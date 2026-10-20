@@ -3,28 +3,22 @@
   <channel>
     <title>Daily Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Curated tech opinions and blog posts</description>
-    <lastBuildDate>Mon, 19 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Zvi Mowshowitz: Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling</title>
-      <link>https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory</link>
-      <description>Anthropic is shopping a federal bill that preempts stronger state laws like SB 53 while weakening enforcement and auditor licensing — weaker, Zvi argues, than Anthropic's own June framework.</description>
-      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory</guid>
+      <title>Jeremy Scheff: My obituary for programming</title>
+      <link>https://dumbmatter.com/2026/10/programming-obituary/</link>
+      <description>A career programmer who loves the puzzle of coding on why agents took the fun — and the leverage — even as they made him faster; surfaced by Simon Willison on Oct 19.</description>
+      <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://dumbmatter.com/2026/10/programming-obituary/</guid>
     </item>
     <item>
-      <title>Nathan Lambert: Meta shakes up the frontiers, open and closed</title>
-      <link>https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open</link>
-      <description>Muse Spark Open halves the US-China open-weight gap and makes Meta the only American lab with frontier open and closed models — but its custom license is an unnecessary strategic risk.</description>
-      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open</guid>
-    </item>
-    <item>
-      <title>Francesco Maggi (via Terry Tao): Will it be a golden age or a dark age for mathematics (and science)?</title>
-      <link>https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</link>
-      <description>Golden age if LLMs empower a new generation and stay open; dark age if output soars while human understanding withers and concentrates in a few hands — society will need a lot more mathematicians, not fewer.</description>
-      <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</guid>
+      <title>Kishan Chetan (Salesforce): Personal Agents Will Drive More Contact Center Traffic Than They Offset</title>
+      <link>https://www.salesforce.com/news/stories/personal-agents-to-drive-more-contact-center-traffic/?bc=OTH</link>
+      <description>Personal agents never tire of hold music — they redial, parallel-call providers and check at 2 a.m., so peak call volume becomes the norm; vendor-flavored and data-free, but the mechanism is real.</description>
+      <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.salesforce.com/news/stories/personal-agents-to-drive-more-contact-center-traffic/?bc=OTH</guid>
     </item>
   </channel>
 </rss>
