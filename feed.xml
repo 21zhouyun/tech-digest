@@ -1,24 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Daily Tech Opinions Digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
-    <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:30:00 +0800</lastBuildDate>
-    <item>
-      <title>Jeremy Scheff: My obituary for programming</title>
-      <link>https://dumbmatter.com/2026/10/programming-obituary/</link>
-      <description>A career programmer who loves the puzzle of coding on why agents took the fun — and the leverage — even as they made him faster; surfaced by Simon Willison on Oct 19.</description>
-      <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://dumbmatter.com/2026/10/programming-obituary/</guid>
-    </item>
-    <item>
-      <title>Kishan Chetan (Salesforce): Personal Agents Will Drive More Contact Center Traffic Than They Offset</title>
-      <link>https://www.salesforce.com/news/stories/personal-agents-to-drive-more-contact-center-traffic/?bc=OTH</link>
-      <description>Personal agents never tire of hold music — they redial, parallel-call providers and check at 2 a.m., so peak call volume becomes the norm; vendor-flavored and data-free, but the mechanism is real.</description>
-      <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.salesforce.com/news/stories/personal-agents-to-drive-more-contact-center-traffic/?bc=OTH</guid>
-    </item>
-  </channel>
-</rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>Daily Tech Opinions Digest</title><link>https://21zhouyun.github.io/tech-digest/feed.xml</link><description>Daily tech opinions digest</description><lastBuildDate>Wed, 21 Oct 2026 08:30:00 +0800</lastBuildDate><item><title>Scott Aaronson: AI Alignment Theory Course: Readings and Rapporteur Reports!</title><link>https://scottaaronson.blog/?p=10204</link><description>Aaronson publishes his full UT Austin alignment syllabus with student rapporteur reports — from Yudkowsky and Concrete Problems to Claude's Constitution and AI as Normal Technology — a ready-made canon for the field.</description><pubDate>Wed, 21 Oct 2026 08:30:00 +0800</pubDate><guid>https://scottaaronson.blog/?p=10204</guid></item><item><title>Steven Novella: Not Buying the AI Doomism</title><link>https://theness.com/neurologicablog/not-buying-the-ai-doomism/</link><description>Novella argues for 'AI realism' over doomism or utopianism, using nuclear power as the analogy: no plausible extinction scenario yet, risks are manageable with standards and treaties.</description><pubDate>Wed, 21 Oct 2026 08:30:00 +0800</pubDate><guid>https://theness.com/neurologicablog/not-buying-the-ai-doomism/</guid></item></channel></rss>
