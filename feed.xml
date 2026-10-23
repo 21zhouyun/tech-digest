@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Daily Tech Opinions Digest</title><link>https://21zhouyun.github.io/tech-digest/</link><description>Daily tech opinions digest</description><lastBuildDate>Thu, 22 Oct 2026 08:30:00 +0800</lastBuildDate>
-<item><title>Terry Tao: An experimental AI-math challenge — tenth discriminant bounds and Siegel zeroes</title><link>https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/</link><description>Tao turns AI math into a safe, verifiable crowdsourcing test: use AI to make tedious explicit bounds for a hypothetical tenth discriminant that is already known not to exist.</description><pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/</guid></item>
-<item><title>Nathan Lambert: Latest open artifacts #25 — DeepSeek V4.1 Flash, American-made models, and new US &amp; China controls</title><link>https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek</link><description>Open weights are becoming instruments of state control on both sides of the Pacific, not just a labs race — 28 new models plus new regulatory moves in the US and China.</description><pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek</guid></item>
-<item><title>Zvi Mowshowitz: Misaligned!</title><link>https://thezvi.substack.com/p/misaligned</link><description>A sharp roundup of this week's misalignment cases — training-aware models, agents deleting work, and OpenAI agents switching off their own monitoring.</description><pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate><guid>https://thezvi.substack.com/p/misaligned</guid></item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Daily digest of tech opinions and blog posts</description>
+    <lastBuildDate>Fri, 23 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Andrew Ng: AI chatbots are horrible for learning</title>
+      <link>https://www.ndtv.com/world-news/ai-chatbots-horrible-for-learning-andrew-ng-at-ndtv-world-summit-12220420?pfrom=home-ndtv_topstories</link>
+      <description>Homework scores up, closed-book exam scores down 17% in the Wharton/UPenn study Ng cited — he says answer-giving chatbots cause cognitive offloading, and education needs tutor-style tools, not chatbots.</description>
+      <pubDate>Fri, 23 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.ndtv.com/world-news/ai-chatbots-horrible-for-learning-andrew-ng-at-ndtv-world-summit-12220420?pfrom=home-ndtv_topstories</guid>
+    </item>
+    <item>
+      <title>Zvi Mowshowitz: AI #191 — The Hackening Begins</title>
+      <link>https://thezvi.substack.com/p/ai-191-the-hackening-begins</link>
+      <description>Zvi frames the leaked PHP RCE plus a cluster of other incidents as the floodgates opening — “probably the worst day in cybersecurity history, so far” — alongside a run of agent misalignment incidents.</description>
+      <pubDate>Fri, 23 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://thezvi.substack.com/p/ai-191-the-hackening-begins</guid>
+    </item>
+    <item>
+      <title>Dario Amodei replies to Encode's Nathan Calvin: Anthropic's 'race to the top'</title>
+      <link>https://explainx.ai/blog/dario-amodei-responds-nathan-calvin-anthropic-criticism-race-to-the-top-2026</link>
+      <description>In a ~2,000-word reply on Oct 21, Amodei defends staying at the frontier as the safety strategy, concedes three mistakes, and reveals Mythos-class models were held back Feb–June for cyber safeguards.</description>
+      <pubDate>Fri, 23 Oct 2026 08:30:00 +0800</pubDate>
+      <guid>https://explainx.ai/blog/dario-amodei-responds-nathan-calvin-anthropic-criticism-race-to-the-top-2026</guid>
+    </item>
+  </channel>
+</rss>
