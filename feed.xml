@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Daily Tech Opinions Digest</title><link>https://21zhouyun.github.io/tech-digest/</link><description>Daily tech opinions digest</description><lastBuildDate>Mon, 26 Oct 2026 08:30:00 +0800</lastBuildDate>
-<item><title>Terry Tao (AGMAI): Disadvantages of Designating Mathematicians for AI Output Releases</title><link>https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/</link><description>AGMAI argues AI labs should not hand AI-generated math output to designated insiders first — it creates unequal access, denied agency and borrowed reputation; release publicly with better exposition instead.</description><pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate><guid>https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/</guid></item>
-<item><title>SemiAnalysis: Amazon’s Trainium Takes a Strike at the Training King</title><link>https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at</link><description>Hands-on Trainium3 testing suggests AWS is becoming a credible training challenger as it moves to a first-class native PyTorch experience, though it is still not as mature as the CUDA ecosystem.</description><pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate><guid>https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at</guid></item>
-<item><title>Nathan Lambert: Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings</title><link>https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber</link><description>Lambert and Florian Brand unpack a messy AI week: Kimi K3.1 Pro's mixed reception despite strong benchmarks, whether open-weight cyber risk was misjudged, and Muse musings.</description><pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate><guid>https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber</guid></item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
+    <lastBuildDate>Tue, 27 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Bruce Schneier: Bias in Qwen3-Coder Model</title>
+      <link>https://www.schneier.com/</link>
+      <guid>https://www.schneier.com/</guid>
+      <description>Qwen3-Coder writes measurably more hackable code for a US defense contractor than a Chinese one, and prompting for secure code widens the gap; removing the CCP alignment in the weights closed it.</description>
+      <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Scott Aaronson: Podcasts about the Topic: Part II</title>
+      <link>https://scottaaronson.blog/?p=10239</link>
+      <guid>https://scottaaronson.blog/?p=10239</guid>
+      <description>Buried in a podcast roundup: Aaronson says his students report an OpenAI model has now refuted the Exponential Time Hypothesis with a roughly exp(n/sqrt(log n)) 3SAT algorithm - unverified, but the next Mathacre-scale claim to watch.</description>
+      <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Torsten Slok (Apollo): The AI Payoff Hasn't Reached Most Companies. Some Raises Slowed Anyway.</title>
+      <link>https://theainextwave.com/editions/2026-10-26/</link>
+      <guid>https://theainextwave.com/editions/2026-10-26/</guid>
+      <description>Apollo's Torsten Slok: revenue per worker and margins are rising only for the Mag 7 and flat for the S&amp;P 493, with no productivity sign - yet pay growth in AI-exposed jobs already lagged about 6.7pp since 2023.</description>
+      <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Cory Doctorow: Sovereign citizens, but for news</title>
+      <link>https://pluralistic.net/2026/10/26/abandon-hope/</link>
+      <guid>https://pluralistic.net/2026/10/26/abandon-hope/</guid>
+      <description>The LA Times blocks articles behind a click claiming mere reading waives your right to sue and consents to tracking - Doctorow calls the browsewrap illegal and 'sovereign citizens, but for news.'</description>
+      <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Sebastian Raschka: Build Your Own Reasoning Model: A Full Video Course</title>
+      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
+      <guid>https://magazine.sebastianraschka.com/p/building-reasoning-models</guid>
+      <description>Eleven hours, eight videos, building a reasoning model on Qwen3 0.6B in PyTorch - RLVR/GRPO, inference-time scaling and distillation, code-along.</description>
+      <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
