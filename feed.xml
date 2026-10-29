@@ -3,36 +3,14 @@
   <channel>
     <title>Daily Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Short daily digest of tech opinions and blog posts</description>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
+    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Bruce Schneier: Hiding Capabilities in AI Models</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</link>
-      <description>New research shows models can provably hide arbitrary capabilities behind encrypted triggers — elicitation-based capability audits have a hard limit, even with full access to the weights.</description>
-      <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</guid>
-    </item>
-    <item>
-      <title>Ben Recht: The World Is Something We Make</title>
-      <link>https://www.argmin.net/p/the-world-is-something-we-make</link>
-      <description>Against Anthropic S-1 inevitability: a truly open language model — weights, code, data and process, not just open weights — is necessary and more buildable than it looks; the hard part is shared compute, not technology.</description>
-      <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.argmin.net/p/the-world-is-something-we-make</guid>
-    </item>
-    <item>
-      <title>Zvi Mowshowitz: Anthropic Versus Anthropic</title>
-      <link>https://thezvi.substack.com/p/anthropic-versus-anthropic</link>
-      <description>Zvi reads Dario Amodei's full point-by-point reply to Nathan Calvin over the leaked draft bill: real, costly safety sacrifices on one side, a policy operation still short of the moment on the other.</description>
-      <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://thezvi.substack.com/p/anthropic-versus-anthropic</guid>
-    </item>
-    <item>
-      <title>Cory Doctorow: History is something you do</title>
-      <link>https://pluralistic.net/2026/10/27/tied-to-the-tracks/</link>
-      <description>Doctorow argues prediction is a helpless posture — sf at its best is Luddite in the original sense: insisting humans choose who technology serves, rather than tying themselves to the tracks of an 'inevitable' future.</description>
-      <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
-      <guid>https://pluralistic.net/2026/10/27/tied-to-the-tracks/</guid>
+      <title>Cory Doctorow: Agents vs ecommerce — Opacity is a feature, not a bug</title>
+      <link>https://pluralistic.net/2026/10/28/principle-agent-problem/</link>
+      <guid>https://pluralistic.net/2026/10/28/principle-agent-problem/</guid>
+      <description>Ecommerce sites were never going to welcome agentic comparison-shopping: surveillance pricing, drip pricing and junk fees — the source of all recent profit growth — require the opacity that agents would destroy.</description>
+      <pubDate>Thu, 29 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
