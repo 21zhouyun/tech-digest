@@ -4,13 +4,20 @@
     <title>Daily Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
-    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Cory Doctorow: Agents vs ecommerce — Opacity is a feature, not a bug</title>
-      <link>https://pluralistic.net/2026/10/28/principle-agent-problem/</link>
-      <guid>https://pluralistic.net/2026/10/28/principle-agent-problem/</guid>
-      <description>Ecommerce sites were never going to welcome agentic comparison-shopping: surveillance pricing, drip pricing and junk fees — the source of all recent profit growth — require the opacity that agents would destroy.</description>
-      <pubDate>Thu, 29 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Zvi Mowshowitz: AI #192 — Anthropic Is Going Public</title>
+      <link>https://thezvi.substack.com/p/ai-192-anthropic-is-going-public</link>
+      <guid>https://thezvi.substack.com/p/ai-192-anthropic-is-going-public</guid>
+      <description>Zvi's weekly roundup digs into Anthropic's S-1 IPO filing and what its numbers actually say about the frontier-lab business.</description>
+      <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Terence Tao: AI math solutions miss the point</title>
+      <link>https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/</link>
+      <guid>https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/</guid>
+      <description>Tao argues the real value of mathematics lies in the journey, not just the answer — and asks what remains for human mathematicians when models solve the problems.</description>
+      <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
