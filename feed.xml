@@ -4,20 +4,20 @@
     <title>Daily Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
-    <lastBuildDate>Fri, 30 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Zvi Mowshowitz: AI #192 — Anthropic Is Going Public</title>
-      <link>https://thezvi.substack.com/p/ai-192-anthropic-is-going-public</link>
-      <guid>https://thezvi.substack.com/p/ai-192-anthropic-is-going-public</guid>
-      <description>Zvi's weekly roundup digs into Anthropic's S-1 IPO filing and what its numbers actually say about the frontier-lab business.</description>
-      <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Nathan Lambert: Was I wrong about open models &amp; cyber risks?</title>
+      <link>https://interconnects.ai/p/was-i-wrong-about-open-models-and</link>
+      <guid>https://interconnects.ai/p/was-i-wrong-about-open-models-and</guid>
+      <description>Lambert revisits his April claim that an open-weight Claude Mythos would have been 'fine' after 'Black October' — he still stands by it, but more nervously, and concedes a costly forced industry-wide software update is coming.</description>
+      <pubDate>Sat, 31 Oct 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Terence Tao: AI math solutions miss the point</title>
-      <link>https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/</link>
-      <guid>https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/</guid>
-      <description>Tao argues the real value of mathematics lies in the journey, not just the answer — and asks what remains for human mathematicians when models solve the problems.</description>
-      <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Andrew Ng: How to Face Your AI Fears This Year</title>
+      <link>https://charonhub.deeplearning.ai/how-to-face-your-ai-fears-this-year/</link>
+      <guid>https://charonhub.deeplearning.ai/how-to-face-your-ai-fears-this-year/</guid>
+      <description>Ng's annual Halloween letter: AI fears deserve a sober look, but fear-mongering is often a tactic for publicity and regulatory capture rather than a measured risk assessment.</description>
+      <pubDate>Sat, 31 Oct 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
