@@ -4,20 +4,27 @@
     <title>Daily Tech Opinions Digest</title>
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
-    <lastBuildDate>Sat, 31 Oct 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Nathan Lambert: Was I wrong about open models &amp; cyber risks?</title>
-      <link>https://interconnects.ai/p/was-i-wrong-about-open-models-and</link>
-      <guid>https://interconnects.ai/p/was-i-wrong-about-open-models-and</guid>
-      <description>Lambert revisits his April claim that an open-weight Claude Mythos would have been 'fine' after 'Black October' — he still stands by it, but more nervously, and concedes a costly forced industry-wide software update is coming.</description>
-      <pubDate>Sat, 31 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Cory Doctorow: Formalities</title>
+      <link>https://pluralistic.net/2026/10/31/burn-berne/</link>
+      <guid>https://pluralistic.net/2026/10/31/burn-berne/</guid>
+      <description>Doctorow, for the first time in 25 years, cheers the US Copyright Office: its human-authorship-only stance means AI-heavy work forces companies to track every AI-generated pixel and word — privately rebuilding the copyright formalities Berne abolished.</description>
+      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Andrew Ng: How to Face Your AI Fears This Year</title>
-      <link>https://charonhub.deeplearning.ai/how-to-face-your-ai-fears-this-year/</link>
-      <guid>https://charonhub.deeplearning.ai/how-to-face-your-ai-fears-this-year/</guid>
-      <description>Ng's annual Halloween letter: AI fears deserve a sober look, but fear-mongering is often a tactic for publicity and regulatory capture rather than a measured risk assessment.</description>
-      <pubDate>Sat, 31 Oct 2026 08:30:00 +0800</pubDate>
+      <title>Parameter Labs: Do the Math — How We Took Over ChatGPT Accounts</title>
+      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+      <guid>https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
+      <description>A crafted ChatGPT share link ran code as chatgpt.com in the victim's session — via a MathLive message listener that accepted HTML from any frame plus a YouTube JSONP CSP bypass — reading private chats; OpenAI fixed it Oct 26 and paid a $5,000 bounty.</description>
+      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Martin Fowler: LLM Voice</title>
+      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
+      <guid>https://martinfowler.com/bliki/LLM-Voice.html</guid>
+      <description>Fowler names the 'uncanny valley of prose' in LLM writing and argues authors should never let a model write even a first draft — human editing rarely expels the machine voice; an outline is as far as it should go.</description>
+      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
