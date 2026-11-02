@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Daily Tech Opinions Digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/</link>
-    <description>Daily digest of tech opinions and blog posts curated for Yun Zhou</description>
-    <lastBuildDate>Sun, 01 Nov 2026 08:30:00 +0800</lastBuildDate>
-    <item>
-      <title>Cory Doctorow: Formalities</title>
-      <link>https://pluralistic.net/2026/10/31/burn-berne/</link>
-      <guid>https://pluralistic.net/2026/10/31/burn-berne/</guid>
-      <description>Doctorow, for the first time in 25 years, cheers the US Copyright Office: its human-authorship-only stance means AI-heavy work forces companies to track every AI-generated pixel and word — privately rebuilding the copyright formalities Berne abolished.</description>
-      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Parameter Labs: Do the Math — How We Took Over ChatGPT Accounts</title>
-      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-      <guid>https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
-      <description>A crafted ChatGPT share link ran code as chatgpt.com in the victim's session — via a MathLive message listener that accepted HTML from any frame plus a YouTube JSONP CSP bypass — reading private chats; OpenAI fixed it Oct 26 and paid a $5,000 bounty.</description>
-      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Martin Fowler: LLM Voice</title>
-      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
-      <guid>https://martinfowler.com/bliki/LLM-Voice.html</guid>
-      <description>Fowler names the 'uncanny valley of prose' in LLM writing and argues authors should never let a model write even a first draft — human editing rarely expels the machine voice; an outline is as far as it should go.</description>
-      <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
-    </item>
-  </channel>
+<channel>
+<title>Daily Tech Opinions Digest</title>
+<link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
+<description>Daily digest of interesting tech opinions and blog posts.</description>
+<language>en</language>
+<item>
+<title>Andrej Karpathy: HackerTube</title>
+<link>https://karpathy.bearblog.dev/hacker-tube/</link>
+<description>Fed up with YouTube's enshittified feed, Karpathy had Claude Opus 5.5 build a full YouTube clone in about two hours, seeded with 6,454 videos recommended in Hacker News comments since 2007. His only manual work: an API key, a VPS, and a domain.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+</item>
+<item>
+<title>Frank Calegari (via Terry Tao): Mathematics has changed. Let's act like it</title>
+<link>https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</link>
+<description>After OpenAI's 700-paper dump, Calegari argues mathematics has already changed and the community should stop mourning and adapt: AI output is real, badly written, and poorly attributed, and the rush to be first is distorting the field.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+</item>
+<item>
+<title>SemiAnalysis: The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout</title>
+<link>https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan</link>
+<description>2027's buildout is already under construction, but 2028 is up for grabs: 62.2 GW of planned US additions, most not yet started, with a prolonged Texas permit freeze now the biggest single risk to the buildout.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+</item>
+</channel>
 </rss>
