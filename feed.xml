@@ -6,22 +6,22 @@
 <description>Daily digest of interesting tech opinions and blog posts.</description>
 <language>en</language>
 <item>
-<title>Andrej Karpathy: HackerTube</title>
-<link>https://karpathy.bearblog.dev/hacker-tube/</link>
-<description>Fed up with YouTube's enshittified feed, Karpathy had Claude Opus 5.5 build a full YouTube clone in about two hours, seeded with 6,454 videos recommended in Hacker News comments since 2007. His only manual work: an API key, a VPS, and a domain.</description>
-<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+<title>Zvi Mowshowitz: Scott Alexander's Against SURA Seems Deeply Confused</title>
+<link>https://thezvi.substack.com/p/scott-alexanders-against-sura-seems</link>
+<description>A point-by-point rebuttal of Scott Alexander's case against unilateral AI pauses: quitting labs and raising alarms demonstrably works, and the Plan A vs Plan C tradeoff is misframed.</description>
+<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Frank Calegari (via Terry Tao): Mathematics has changed. Let's act like it</title>
-<link>https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</link>
-<description>After OpenAI's 700-paper dump, Calegari argues mathematics has already changed and the community should stop mourning and adapt: AI output is real, badly written, and poorly attributed, and the rush to be first is distorting the field.</description>
-<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+<title>Cory Doctorow: Autodoxing</title>
+<link>https://pluralistic.net/2026/11/02/agony-verification/</link>
+<description>A new AI infostealer that doxes victims as it hacks them is the foreseeable payoff of decades of hostility to privacy and encryption — data is the new oily rag.</description>
+<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>SemiAnalysis: The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout</title>
-<link>https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan</link>
-<description>2027's buildout is already under construction, but 2028 is up for grabs: 62.2 GW of planned US additions, most not yet started, with a prolonged Texas permit freeze now the biggest single risk to the buildout.</description>
-<pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+<title>Bruce Schneier: AI Vulnerability Finding</title>
+<link>https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html</link>
+<description>3% of all 'critical' software security bugs ever recorded were found in the last month — on pace for ~100,000 more this year. It is a new world.</description>
+<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
