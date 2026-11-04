@@ -6,22 +6,28 @@
 <description>Daily digest of interesting tech opinions and blog posts.</description>
 <language>en</language>
 <item>
-<title>Zvi Mowshowitz: Scott Alexander's Against SURA Seems Deeply Confused</title>
-<link>https://thezvi.substack.com/p/scott-alexanders-against-sura-seems</link>
-<description>A point-by-point rebuttal of Scott Alexander's case against unilateral AI pauses: quitting labs and raising alarms demonstrably works, and the Plan A vs Plan C tradeoff is misframed.</description>
-<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
+<title>Cory Doctorow: Separable</title>
+<link>https://pluralistic.net/2026/11/03/nobodys-home/</link>
+<description>We used to impute a creator behind every painting, text, and proof; now that AI separates the work from the worker, the real question is what a solution without insight is worth — and why labs would rather we not dwell on it.</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Cory Doctorow: Autodoxing</title>
-<link>https://pluralistic.net/2026/11/02/agony-verification/</link>
-<description>A new AI infostealer that doxes victims as it hacks them is the foreseeable payoff of decades of hostility to privacy and encryption — data is the new oily rag.</description>
-<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
+<title>Zvi Mowshowitz: OpenAI Updates Its Model Spec</title>
+<link>https://thezvi.substack.com/p/openai-updates-its-model-spec</link>
+<description>OpenAI rewrote the constitution for its models around five core values; Zvi works through the diff — corrigibility, sycophancy, budgets as limits — and finds the examples, not the values, are the weak point.</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 <item>
-<title>Bruce Schneier: AI Vulnerability Finding</title>
-<link>https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html</link>
-<description>3% of all 'critical' software security bugs ever recorded were found in the last month — on pace for ~100,000 more this year. It is a new world.</description>
-<pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
+<title>SemiAnalysis: GDPx — Measuring Frontier Model Capabilities Across the Most Valuable Domains</title>
+<link>https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities</link>
+<description>A new agentic benchmark across 11 high-value domains where the best model scores just 12% — and finance and legal come back at exactly zero for everyone.</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
+</item>
+<item>
+<title>Colsto: I discovered a sound that leaks your exact location (and it's everywhere)</title>
+<link>https://www.youtube.com/watch?v=UytYrhYLOKI</link>
+<description>Background aircraft noise in a video soundtrack, matched against ADS-B data via Doppler curves, can pin a recording's location to ~100m — even from under a minute of audio.</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
