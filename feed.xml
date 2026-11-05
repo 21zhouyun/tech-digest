@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>Daily Tech Opinions Digest</title>
-<link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-<description>Daily digest of interesting tech opinions and blog posts.</description>
-<language>en</language>
-<item>
-<title>Cory Doctorow: Separable</title>
-<link>https://pluralistic.net/2026/11/03/nobodys-home/</link>
-<description>We used to impute a creator behind every painting, text, and proof; now that AI separates the work from the worker, the real question is what a solution without insight is worth — and why labs would rather we not dwell on it.</description>
-<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Zvi Mowshowitz: OpenAI Updates Its Model Spec</title>
-<link>https://thezvi.substack.com/p/openai-updates-its-model-spec</link>
-<description>OpenAI rewrote the constitution for its models around five core values; Zvi works through the diff — corrigibility, sycophancy, budgets as limits — and finds the examples, not the values, are the weak point.</description>
-<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>SemiAnalysis: GDPx — Measuring Frontier Model Capabilities Across the Most Valuable Domains</title>
-<link>https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities</link>
-<description>A new agentic benchmark across 11 high-value domains where the best model scores just 12% — and finance and legal come back at exactly zero for everyone.</description>
-<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
-</item>
-<item>
-<title>Colsto: I discovered a sound that leaks your exact location (and it's everywhere)</title>
-<link>https://www.youtube.com/watch?v=UytYrhYLOKI</link>
-<description>Background aircraft noise in a video soundtrack, matched against ADS-B data via Doppler curves, can pin a recording's location to ~100m — even from under a minute of audio.</description>
-<pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
-</item>
-</channel>
+  <channel>
+    <title>Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
+    <description>Daily tech opinions digest for Yun Zhou</description>
+    <language>en</language>
+    <item>
+      <title>Cory Doctorow: The AI fatfinger economy has come for my receipts app</title>
+      <link>https://pluralistic.net/2026/11/04/genius-scan-is-neither/</link>
+      <description>Every useful button now summons an AI genie: Doctorow argues the KPI-driven 'fatfinger economy' is how vendors fake AI adoption numbers without generating any real usage.</description>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>SemiAnalysis: Elon Is Doing It Again - SpaceX Will Be The World's Biggest AI Cloud</title>
+      <link>https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will</link>
+      <description>SpaceX already has 3.6GW of datacenter capacity under construction and a revised ~13GW target for 2027 - roughly all of Google's datacenter capacity from 1999-2026, built in 18 months.</description>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Bruce Schneier: AIs Hacking the Law</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html</link>
+      <description>LLMs are now finding previously unrecorded vulnerabilities in the German legal system at scale - the 'hacking the law' idea from his 2021 essay, arriving for real.</description>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Too many real bugs: what the AI-assisted PR flood really costs</title>
+      <link>https://bokonon.ai/blog/too-many-real-bugs/</link>
+      <description>PostgreSQL 19 slipped because AI-assisted testing surfaced more real bugs than maintainers could triage, while Trail of Bits cleared 149 CVE fixes - two answers to the same flood of AI-found flaws.</description>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+  </channel>
 </rss>
