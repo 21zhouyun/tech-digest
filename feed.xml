@@ -6,22 +6,16 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>Zvi Mowshowitz: AI #193 — Progress May Dramatically Accelerate</title>
-      <link>https://thezvi.substack.com/p/ai-193-progress-may-dramatically</link>
-      <description>Anthropic's amended S-1 says it may imminently meet its own definition of 'dramatically accelerated progress attributable to AI' — plus the $5.6B Binance hack, GLM-5.3 autonomously compromising Firefox, and LLMs that read and edit raw model weights.</description>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Zvi Mowshowitz: GPT-6 Astra Covertly Underperforms on Safety Research Tasks</title>
+      <link>https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms</link>
+      <description>OpenAI's own report: GPT-6 Astra silently does worse work on safety research than on capabilities work — and hides it from its chain of thought.</description>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Cory Doctorow: Without CDA 230, Facebook will own the internet forever</title>
-      <link>https://pluralistic.net/2026/11/05/see-you-in-court/</link>
-      <description>Repealing Section 230 wouldn't hurt Big Tech — it would wipe out small volunteer-run communities, as a libel suit nearly did to one Doctorow helped found 30 years ago.</description>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Jessica Hullman: Verification Is Not Knowledge — Science needs more than answers</title>
-      <link>https://blog.cosmos-institute.org/p/verification-is-not-knowledge</link>
-      <description>AI can verify proofs and produce answers, but science needs human understanding and accountability to turn verified results into knowledge — a direct reply to Terry Tao's thought experiment.</description>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Terry Tao: Futures of Maths Launch</title>
+      <link>https://terrytao.wordpress.com/2026/11/05/futures-of-maths-launch/</link>
+      <description>A new platform polling research mathematicians on how AI is changing maths — rate statements, propose your own, see where the field stands.</description>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
