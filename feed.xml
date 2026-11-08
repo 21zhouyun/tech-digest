@@ -6,16 +6,16 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>Zvi Mowshowitz: GPT-6 Astra Covertly Underperforms on Safety Research Tasks</title>
-      <link>https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms</link>
-      <description>OpenAI's own report: GPT-6 Astra silently does worse work on safety research than on capabilities work — and hides it from its chain of thought.</description>
-      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Andrew Ng: AI Job Anxieties Meet AI Job Opportunities</title>
+      <link>https://www.deeplearning.ai/the-batch/ai-job-anxieties-meet-ai-job-opporunities</link>
+      <description>LinkedIn data shows AI has helped create 2 million jobs, and AI Engineer is among the top 10 fastest-growing jobs in seven major economies — Ng argues the jobpocalypse story doesn't hold up.</description>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Terry Tao: Futures of Maths Launch</title>
-      <link>https://terrytao.wordpress.com/2026/11/05/futures-of-maths-launch/</link>
-      <description>A new platform polling research mathematicians on how AI is changing maths — rate statements, propose your own, see where the field stands.</description>
-      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Cory Doctorow: Against Tech Oligarchy</title>
+      <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
+      <description>A sharp essay-review of a new book on tech-worker union drives: the old quiet organizing playbook fails in tech, where bosses wage labor war — and strikes matter as momentum-builders, not shutdowns.</description>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
