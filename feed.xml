@@ -6,16 +6,16 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>Andrew Ng: AI Job Anxieties Meet AI Job Opportunities</title>
-      <link>https://www.deeplearning.ai/the-batch/ai-job-anxieties-meet-ai-job-opporunities</link>
-      <description>LinkedIn data shows AI has helped create 2 million jobs, and AI Engineer is among the top 10 fastest-growing jobs in seven major economies — Ng argues the jobpocalypse story doesn't hold up.</description>
-      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <title>METR: Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
+      <link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
+      <description>After 11 weeks inside Anthropic, METR estimates AI capabilities are improving about twice as fast as in 2024-25, with AI itself behind roughly 80% of the speedup — but Anthropic redacted most of the evidence that convinced them.</description>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Cory Doctorow: Against Tech Oligarchy</title>
-      <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
-      <description>A sharp essay-review of a new book on tech-worker union drives: the old quiet organizing playbook fails in tech, where bosses wage labor war — and strikes matter as momentum-builders, not shutdowns.</description>
-      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Terry Tao (guest post): What should we teach our (undergraduate) students?</title>
+      <link>https://terrytao.wordpress.com/2026/11/08/what-should-we-teach-our-undergraduate-students/</link>
+      <description>With AI doing the routine math, what should undergraduates actually learn? A case for teaching judgment, proof, and problem-framing over calculation.</description>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
