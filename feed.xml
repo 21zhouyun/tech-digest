@@ -6,16 +6,22 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>METR: Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
-      <link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
-      <description>After 11 weeks inside Anthropic, METR estimates AI capabilities are improving about twice as fast as in 2024-25, with AI itself behind roughly 80% of the speedup — but Anthropic redacted most of the evidence that convinced them.</description>
-      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Zvi Mowshowitz: AI R&amp;D Is Accelerating Towards Potential RSI in 2027</title>
+      <link>https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards</link>
+      <description>Reading METR's report: Anthropic's AI capabilities are improving about twice as fast as in 2024-25, mostly because AI is doing the R&amp;D — a naive extrapolation puts full recursive self-improvement under a year away, with no clear bottlenecks in sight.</description>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Terry Tao (guest post): What should we teach our (undergraduate) students?</title>
-      <link>https://terrytao.wordpress.com/2026/11/08/what-should-we-teach-our-undergraduate-students/</link>
-      <description>With AI doing the routine math, what should undergraduates actually learn? A case for teaching judgment, proof, and problem-framing over calculation.</description>
-      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <title>SemiAnalysis: We Visited China's Stargate in Inner Mongolia</title>
+      <link>https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner</link>
+      <description>A field visit to Envision's 800MW Galaxy campus in Ulanqab: first 120MW phase delivered in a year at a fifth of US costs, wind-powered, with 800V DC running straight to the rack — a reference point for where the US datacenter roadmap is headed.</description>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Bruce Schneier: AI Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/ai-security.html</link>
+      <description>Short framing from the [un]prompted conference: AI security splits into three — security of AI, security with AI, and security from AI — and researchers need to be clear which one they're working on.</description>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
