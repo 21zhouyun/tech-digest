@@ -6,22 +6,22 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>Zvi Mowshowitz: AI R&amp;D Is Accelerating Towards Potential RSI in 2027</title>
-      <link>https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards</link>
-      <description>Reading METR's report: Anthropic's AI capabilities are improving about twice as fast as in 2024-25, mostly because AI is doing the R&amp;D — a naive extrapolation puts full recursive self-improvement under a year away, with no clear bottlenecks in sight.</description>
-      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Gary Marcus: Just say no to Anthropic's IPO</title>
+      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</link>
+      <description>Anthropic is aiming for a valuation of up to $1.4 trillion despite never having made a profit (bar one subsidised quarter), carrying nearly $900B in future compute liabilities, and with Q3 growth already decelerating sharply from Q2.</description>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>SemiAnalysis: We Visited China's Stargate in Inner Mongolia</title>
-      <link>https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner</link>
-      <description>A field visit to Envision's 800MW Galaxy campus in Ulanqab: first 120MW phase delivered in a year at a fifth of US costs, wind-powered, with 800V DC running straight to the rack — a reference point for where the US datacenter roadmap is headed.</description>
-      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Cory Doctorow: The EU should go big and hard over border IT failure</title>
+      <link>https://pluralistic.net/2026/11/10/worst-of-all-worlds/</link>
+      <description>The EU's biometric border system (EES) is years late, double budget, and still stranding travellers in multi-hour queues — and the EU is suing contractors IBM, Atos and Leonardo in secret instead of making a public example of them.</description>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Bruce Schneier: AI Security</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/ai-security.html</link>
-      <description>Short framing from the [un]prompted conference: AI security splits into three — security of AI, security with AI, and security from AI — and researchers need to be clear which one they're working on.</description>
-      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Andrew Ng: AI Job Anxieties Meet AI Job Opportunities (The Batch #378)</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-378</link>
+      <description>LinkedIn data shows AI has helped create 2 million jobs; Ng's case for embedding AI engineers inside marketing, HR and finance teams to build workflow automations, rather than keeping them siloed in engineering.</description>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
