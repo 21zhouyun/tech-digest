@@ -6,16 +6,34 @@
     <description>Daily tech opinions digest for Yun Zhou</description>
     <language>en</language>
     <item>
-      <title>Zvi Mowshowitz: Fable and Mythos 5.2: The System Card</title>
-      <link>https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card</link>
-      <description>Zvi's line-by-line read of the Mythos 5.2 system card: Anthropic's own numbers put AI R&amp;D acceleration at ~1.9x, past its 2x threshold, and the S-1 quietly admits the threshold is met — plus a near-doubling in AECI capability scores.</description>
-      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Zvi Mowshowitz: AI #194 — Spy Versus Guy</title>
+      <link>https://thezvi.substack.com/p/ai-194-spy-versus-guy</link>
+      <description>Zvi's weekly roundup leads with the METR report on AI R&amp;D acceleration — timelines are updating toward recursive self-improvement in 2027, but he warns against treating predictions as assurances; also covers Claude Fable 5.2, GPT-6 Cyber's kernel exploits, and the Jensen Huang scandal.</description>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>Scott Aaronson: Dana's talk on OpenAI's proof of the Unique Games Conjecture, now on YouTube!</title>
-      <link>https://scottaaronson.blog/?p=10318</link>
-      <description>A 3-hour lecture on the AI-discovered proof of the Unique Games Conjecture — where the Long Code and Hadamard Code attempts got stuck, and how the new tree-based code gets around them.</description>
-      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Terry Tao: Lean Grimoire</title>
+      <link>https://terrytao.wordpress.com/2026/11/11/lean-grimoire/</link>
+      <description>Tao rebuilt his interactive logic textbook as a crafting game with a coding agent — it now shows a live Lean proof of your game state, plus a fantasy mode where theorems become potions; he's asking for playtesters.</description>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Cory Doctorow: Uber's labor crash</title>
+      <link>https://pluralistic.net/2026/11/12/starvation-wages/</link>
+      <description>Uber's driver supply is finally cracking after years of sub-minimum pay, and Doctorow argues robotaxis can't save the model — replacing drivers who supply their own cars with $200k robots the company must own and maintain is worse economics, not better.</description>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Bruce Schneier: Another Way Police Are Locating People from Their Smartphones</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</link>
+      <description>Penlink's Webloc builds a year-long, near-real-time picture of a phone's movements from location data harvested via weather, gaming, email and religious apps — and sells it to police, who can pull up every phone present at a place and time.</description>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Bruce Schneier: Three People Arrested for AI-Enhanced Impersonation Fraud</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</link>
+      <description>Three men allegedly used AI to impersonate executives and lawyers and steal over $129m — Schneier's framing: this is security *from* AI, the third branch of AI security alongside security of and with AI.</description>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
