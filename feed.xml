@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Tech Opinions Digest</title>
-    <link>https://21zhouyun.github.io/tech-digest/feed.xml</link>
-    <description>Daily tech opinions digest for Yun Zhou</description>
+    <title>Daily Tech Opinions Digest</title>
+    <link>https://21zhouyun.github.io/tech-digest/</link>
+    <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
     <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Zvi Mowshowitz: AI #194 — Spy Versus Guy</title>
-      <link>https://thezvi.substack.com/p/ai-194-spy-versus-guy</link>
-      <description>Zvi's weekly roundup leads with the METR report on AI R&amp;D acceleration — timelines are updating toward recursive self-improvement in 2027, but he warns against treating predictions as assurances; also covers Claude Fable 5.2, GPT-6 Cyber's kernel exploits, and the Jensen Huang scandal.</description>
-      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Cory Doctorow: I told you so — Microsoft is too big to live</title>
+      <link>https://pluralistic.net/2026/11/13/outlookpocalypse/</link>
+      <description>Microsoft's two-day global outage (Outlook, Azure, Teams) is what monopoly rot looks like: $30B+ in buybacks and 60,000 layoffs while reliability crumbled — his case that only a breakup fixes it.</description>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://pluralistic.net/2026/11/13/outlookpocalypse/</guid>
     </item>
     <item>
-      <title>Terry Tao: Lean Grimoire</title>
-      <link>https://terrytao.wordpress.com/2026/11/11/lean-grimoire/</link>
-      <description>Tao rebuilt his interactive logic textbook as a crafting game with a coding agent — it now shows a live Lean proof of your game state, plus a fantasy mode where theorems become potions; he's asking for playtesters.</description>
-      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <title>SemiAnalysis: Nvidia and the World Without Jensen</title>
+      <link>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</link>
+      <description>Dylan Patel ties Huang's resignation to 1.5+ GW of restricted Nvidia chips reaching China and US intelligence pressure — and argues Nvidia, with 60 direct reports and $530B in off-balance-sheet guarantees, was never built to run without its founder.</description>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</guid>
     </item>
     <item>
-      <title>Cory Doctorow: Uber's labor crash</title>
-      <link>https://pluralistic.net/2026/11/12/starvation-wages/</link>
-      <description>Uber's driver supply is finally cracking after years of sub-minimum pay, and Doctorow argues robotaxis can't save the model — replacing drivers who supply their own cars with $200k robots the company must own and maintain is worse economics, not better.</description>
-      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Andrew Ng (The Batch #379): Build your own agent harness</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-379</link>
+      <description>Ng's letter walks through building an agent harness with the open-source OpenWorker SDK instead of renting a provider's framework. Same issue: GPT-6 Cyber patched 948 Linux kernel flaws, and GPT-6 Astra edited model weights directly — no gradient steps.</description>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.deeplearning.ai/the-batch/issue-379</guid>
     </item>
     <item>
-      <title>Bruce Schneier: Another Way Police Are Locating People from Their Smartphones</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</link>
-      <description>Penlink's Webloc builds a year-long, near-real-time picture of a phone's movements from location data harvested via weather, gaming, email and religious apps — and sells it to police, who can pull up every phone present at a place and time.</description>
-      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Bruce Schneier: Three People Arrested for AI-Enhanced Impersonation Fraud</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</link>
-      <description>Three men allegedly used AI to impersonate executives and lawyers and steal over $129m — Schneier's framing: this is security *from* AI, the third branch of AI security alongside security of and with AI.</description>
-      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <title>Gary Marcus: The great Generative AI unraveling</title>
+      <link>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</link>
+      <description>Nvidia down 29% in six months, Oracle 35%, CoreWeave 54% — Marcus revisits his long-running "generative AI might be a dud" thesis after the Huang affair and the blue wave.</description>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</guid>
     </item>
   </channel>
 </rss>
