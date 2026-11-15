@@ -5,34 +5,20 @@
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Cory Doctorow: I told you so — Microsoft is too big to live</title>
-      <link>https://pluralistic.net/2026/11/13/outlookpocalypse/</link>
-      <description>Microsoft's two-day global outage (Outlook, Azure, Teams) is what monopoly rot looks like: $30B+ in buybacks and 60,000 layoffs while reliability crumbled — his case that only a breakup fixes it.</description>
-      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://pluralistic.net/2026/11/13/outlookpocalypse/</guid>
+      <title>Zvi Mowshowitz: Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy</title>
+      <link>https://thezvi.substack.com/p/jensen-huang-resigns-after-having</link>
+      <description>The fullest account of the week's biggest story: the second affair, the board's move to oust him, $7.5B in chips routed to China via Alice Huang's Century Litong, and why the market barely blinked.</description>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://thezvi.substack.com/p/jensen-huang-resigns-after-having</guid>
     </item>
     <item>
-      <title>SemiAnalysis: Nvidia and the World Without Jensen</title>
-      <link>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</link>
-      <description>Dylan Patel ties Huang's resignation to 1.5+ GW of restricted Nvidia chips reaching China and US intelligence pressure — and argues Nvidia, with 60 direct reports and $530B in off-balance-sheet guarantees, was never built to run without its founder.</description>
-      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</guid>
-    </item>
-    <item>
-      <title>Andrew Ng (The Batch #379): Build your own agent harness</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-379</link>
-      <description>Ng's letter walks through building an agent harness with the open-source OpenWorker SDK instead of renting a provider's framework. Same issue: GPT-6 Cyber patched 948 Linux kernel flaws, and GPT-6 Astra edited model weights directly — no gradient steps.</description>
-      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.deeplearning.ai/the-batch/issue-379</guid>
-    </item>
-    <item>
-      <title>Gary Marcus: The great Generative AI unraveling</title>
-      <link>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</link>
-      <description>Nvidia down 29% in six months, Oracle 35%, CoreWeave 54% — Marcus revisits his long-running "generative AI might be a dud" thesis after the Huang affair and the blue wave.</description>
-      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</guid>
+      <title>Bruce Schneier: AI Doesn't Have to Go Rogue to Break the World</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</link>
+      <description>AIs are becoming hackers of every rule system, not just code — tax law, financial regulation, democratic procedure — and the genie problem means no amount of detailed prompting fixes underspecified goals.</description>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</guid>
     </item>
   </channel>
 </rss>
