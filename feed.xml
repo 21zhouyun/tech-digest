@@ -5,20 +5,27 @@
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Zvi Mowshowitz: Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy</title>
-      <link>https://thezvi.substack.com/p/jensen-huang-resigns-after-having</link>
-      <description>The fullest account of the week's biggest story: the second affair, the board's move to oust him, $7.5B in chips routed to China via Alice Huang's Century Litong, and why the market barely blinked.</description>
-      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://thezvi.substack.com/p/jensen-huang-resigns-after-having</guid>
+      <title>Terry Tao: Introducing MathHelm — A Place to discuss AI-generated papers</title>
+      <link>https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/</link>
+      <description>AI is now proving theorems faster than humans can referee them, so Tao is launching a dedicated forum to discuss — and stress-test — AI-generated papers.</description>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/</guid>
     </item>
     <item>
-      <title>Bruce Schneier: AI Doesn't Have to Go Rogue to Break the World</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</link>
-      <description>AIs are becoming hackers of every rule system, not just code — tax law, financial regulation, democratic procedure — and the genie problem means no amount of detailed prompting fixes underspecified goals.</description>
-      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</guid>
+      <title>Sebastian Raschka: Understanding Positional Embeddings in Modern LLMs</title>
+      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+      <description>The clearest RoPE walkthrough yet, with worked math, PyTorch code, and a survey of which positional schemes 2026's open models actually use.</description>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
+    </item>
+    <item>
+      <title>Scott Aaronson: Aaronson-Ambainis Conjecture proved! (By AI, of course)</title>
+      <link>https://scottaaronson.blog/?p=10295</link>
+      <description>An AI just proved a 17-year-old conjecture bearing his own name — Aaronson on what it does and doesn't mean for quantum supremacy, and why he's equal parts awestruck and fatigued.</description>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://scottaaronson.blog/?p=10295</guid>
     </item>
   </channel>
 </rss>
