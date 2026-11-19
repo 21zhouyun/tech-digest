@@ -5,20 +5,34 @@
     <link>https://21zhouyun.github.io/tech-digest/</link>
     <description>Daily curated opinion and blog posts from tech researchers and thinkers</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Bruce Schneier: Formal Verification of the Signal Protocol Using AI</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html</link>
-      <description>DeepMind's AlphaProof Code used agentic AI to formally verify Signal's crypto guarantees — 6M+ lines of Lean in four weeks, and it caught known bugs in older Signal versions.</description>
-      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html</guid>
+      <title>Zvi Mowshowitz: Quickly, There’s No Time</title>
+      <link>https://thezvi.substack.com/p/quickly-theres-no-time</link>
+      <description>After the METR report, the AI Futures Project and Paul Christiano have sharply shortened their timelines — superintelligence automating AI R&amp;D in 2027 is now a serious possibility, and Christiano sees takeover risk within 6–12 months.</description>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://thezvi.substack.com/p/quickly-theres-no-time</guid>
     </item>
     <item>
-      <title>Zvi Mowshowitz: Jensen Huang Really Liked Selling China Advanced AI Chips</title>
-      <link>https://thezvi.substack.com/p/jensen-huang-really-liked-selling</link>
-      <description>The Jensen scandal's real story: years of Nvidia lobbying against export controls, and the new remote-access rule finally closing the loophole — Megaspeed still received $800M in chips after being put on a no-sell list.</description>
-      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
-      <guid>https://thezvi.substack.com/p/jensen-huang-really-liked-selling</guid>
+      <title>Cory Doctorow: Enshittifiers groom us for scammers</title>
+      <link>https://pluralistic.net/2026/11/18/malice-v-incompetence/</link>
+      <description>Banks, insurers and governments have trained us to expect chaotic, ever-changing security rituals — the perfect cover for AI-powered fraud, since a scammer’s demands now look no weirder than the real thing.</description>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://pluralistic.net/2026/11/18/malice-v-incompetence/</guid>
+    </item>
+    <item>
+      <title>Daniel Stenberg: Actual curl rewrites in Rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <description>AI agents rewrote curl’s 185k lines of C into Rust in three weeks — meanwhile the human maintainers merged 300+ commits and 200 bugfixes the rewrites don’t have; writing code once was never the hard part.</description>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</guid>
+    </item>
+    <item>
+      <title>Gary Marcus: Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.</title>
+      <link>https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</link>
+      <description>A week of FAA ground stops, Outlook outages and a massive supply-chain cyberattack — Marcus blames vibe-coded software, unconstrained agents, and attackers exploiting AI faster than defenders.</description>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <guid>https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</guid>
     </item>
   </channel>
 </rss>
