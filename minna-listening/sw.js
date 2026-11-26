@@ -1,12 +1,14 @@
 // Service worker: cache the app shell on install; cache audio on first play.
 // Audio is NOT pre-cached (all ~185MB would be rejected on install, esp. Safari).
-var SHELL_CACHE = 'minna-shell-v1';
+var SHELL_CACHE = 'minna-shell-v2';
 var AUDIO_CACHE = 'minna-audio-v1';
 var SHELL = [
   './',
   './index.html',
   './app.js',
   './lessons.js',
+  './exercises-data.js',
+  './exercises.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png'

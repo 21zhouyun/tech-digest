@@ -124,6 +124,7 @@
 
   function loadTrack(i, autoplay) {
     if (i < 0 || i >= playlist.length) return;
+    window.__exSegEnd = null; // leave exercise segment-playback mode
     clearTimeout(shadowTimer);
     idx = i;
     playCount = 0;
@@ -248,6 +249,7 @@
     audio.currentTime = parseFloat(seekEl.value);
   });
   audio.addEventListener('ended', function () {
+    if (window.__exSegEnd != null) return; // exercise segment mode handles its own stop
     if (repeatMode === 'one') { audio.currentTime = 0; audio.play(); return; }
     if (repeat3) {
       playCount++;
