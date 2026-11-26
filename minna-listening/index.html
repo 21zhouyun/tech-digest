@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1e3a8a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="みんな聴解">
+<title>みんなの日本語 聴解</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png">
+<style>
+:root{--blue:#1e3a8a;--blue2:#2563eb;--bg:#f4f6fb;--card:#fff;--text:#111827;--muted:#6b7280;--line:#e5e7eb;--green:#15803d}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;background:var(--bg);color:var(--text);padding-bottom:230px}
+header{background:var(--blue);color:#fff;padding:18px 16px 14px;position:sticky;top:0;z-index:10}
+header h1{margin:0;font-size:20px}
+header p{margin:4px 0 0;font-size:12px;opacity:.85}
+.progress{margin-top:10px;height:8px;background:rgba(255,255,255,.3);border-radius:4px;overflow:hidden}
+.progress>div{height:100%;background:#4ade80;width:0%}
+.progress-label{font-size:12px;margin-top:4px}
+main{max-width:720px;margin:0 auto;padding:12px 12px 0}
+section h2{font-size:16px;margin:18px 4px 8px;color:var(--blue)}
+.lesson{background:var(--card);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;overflow:hidden}
+.lesson-head{display:flex;align-items:center;gap:10px;width:100%;padding:14px;background:none;border:0;text-align:left;font-size:16px;cursor:pointer}
+.lesson-head .num{flex:0 0 auto;background:var(--blue);color:#fff;border-radius:8px;min-width:44px;text-align:center;padding:6px 4px;font-weight:700;font-size:14px}
+.lesson-head .title{flex:1;font-weight:600}
+.lesson-head .count{font-size:12px;color:var(--muted)}
+.done-check{width:26px;height:26px;accent-color:var(--green);flex:0 0 auto}
+.tracks{display:none;border-top:1px solid var(--line)}
+.lesson.open .tracks{display:block}
+.track{display:flex;align-items:center;gap:10px;width:100%;padding:12px 14px;background:none;border:0;border-top:1px solid var(--line);text-align:left;font-size:15px;cursor:pointer}
+.track:first-child{border-top:0}
+.track .tlabel{flex:1}
+.track .play-ico{color:var(--blue2);font-size:14px}
+.track.playing{background:#dbeafe}
+.track.playing .tlabel{font-weight:700;color:var(--blue)}
+.lesson-actions{padding:0 14px 12px}
+.lesson-actions button{background:var(--blue2);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:14px;cursor:pointer}
+#player{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:2px solid var(--blue);padding:10px 12px calc(10px + env(safe-area-inset-bottom));z-index:20;box-shadow:0 -4px 16px rgba(0,0,0,.12)}
+#now{font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#status{font-size:12px;color:var(--muted);min-height:16px}
+#seek{width:100%;margin:6px 0 2px}
+#times{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}
+.controls{display:flex;gap:6px;align-items:center;justify-content:center;margin-top:6px;flex-wrap:wrap}
+.controls button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;font-size:14px;cursor:pointer;min-width:40px}
+.controls button.primary{background:var(--blue);color:#fff;border-color:var(--blue);font-size:16px;padding:8px 18px}
+.controls button.on{background:var(--blue2);color:#fff;border-color:var(--blue2)}
+.speeds{display:flex;gap:4px;justify-content:center;margin-top:6px;flex-wrap:wrap}
+.speeds button{border:1px solid var(--line);background:#fff;border-radius:16px;padding:5px 10px;font-size:13px;cursor:pointer}
+.speeds button.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.ab-row{display:flex;gap:6px;justify-content:center;margin-top:6px;align-items:center;font-size:13px;flex-wrap:wrap}
+.ab-row button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 10px;font-size:13px;cursor:pointer}
+.ab-row button.on{background:#b45309;color:#fff;border-color:#b45309}
+footer{max-width:720px;margin:24px auto 0;padding:0 16px;font-size:12px;color:var(--muted);line-height:1.6}
+</style>
+</head>
+<body>
+<header>
+  <h1>みんなの日本語 聴解</h1>
+  <p>初級 I・II 第3版　会話・問題　公式無料音声</p>
+  <div class="progress"><div id="bar"></div></div>
+  <div class="progress-label" id="progressLabel">0 / 51 課</div>
+</header>
+<main id="list"></main>
+<footer>
+  音声 © 3A Corporation（スリーエーネットワーク）。出版社公式サイトで無料公開されている「会話」「問題」音声を、購入済み教材の個人学習用に同梱しています。出典：3anet.co.jp（初級 I / 初級 II 音声ページ）。本アプリは非公式の学習ツールです。音声の再配布・商用利用はしないでください。
+</footer>
+
+<div id="player">
+  <div id="now">まだ再生していません — 課を選んでください</div>
+  <div id="status"></div>
+  <input type="range" id="seek" min="0" max="100" step="0.1" value="0">
+  <div id="times"><span id="cur">0:00</span><span id="dur">0:00</span></div>
+  <div class="controls">
+    <button id="prevBtn" title="前のトラック">⏮</button>
+    <button id="back5" title="5秒戻る">−5s</button>
+    <button id="playBtn" class="primary">▶ 再生</button>
+    <button id="fwd10" title="10秒進む">+10s</button>
+    <button id="nextBtn" title="次のトラック">⏭</button>
+    <button id="repeatBtn" title="リピート">🔁 Off</button>
+  </div>
+  <div class="speeds" id="speeds"></div>
+  <div class="ab-row">
+    <span>A-B リピート：</span>
+    <button id="setA">A を設定</button>
+    <button id="setB">B を設定</button>
+    <button id="clearAB">クリア</button>
+    <span id="abLabel"></span>
+  </div>
+  <div class="ab-row">
+    <button id="shadowBtn" title="トラック終了後 3秒 pause してから次へ">🎙 シャドーイング：Off</button>
+    <button id="repeat3Btn" title="各トラックを3回繰り返す">×3 リピート：Off</button>
+  </div>
+</div>
+
+<audio id="audio" preload="metadata"></audio>
+<script src="lessons.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
